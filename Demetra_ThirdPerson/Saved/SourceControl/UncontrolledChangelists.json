@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/Megascans/3D_Assets/Damaged_Wire_Spool_vh2jehus/S_Damaged_Wire_Spool_vh2jehus_lod3_Var1.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/BP/BP_Collectable.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/BP/BP_Fruit.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5R/KW0T3W249LHFURQVW6EAZW.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/2A/BO26WBO6PCF77C1XB3HZZ9.uasset"
+			]
+		}
+	]
+}
