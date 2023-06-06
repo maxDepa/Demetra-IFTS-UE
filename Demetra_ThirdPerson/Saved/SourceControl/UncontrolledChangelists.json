@@ -9,7 +9,6 @@
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/BP/BP_Collectable.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/BP/BP_Fruit.uasset",
-				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5R/KW0T3W249LHFURQVW6EAZW.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/2A/BO26WBO6PCF77C1XB3HZZ9.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
@@ -26,10 +25,17 @@
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/M/M_Trap.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/M/M_Fruit.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XD/Z8WNWD0EFCKVBJEBAOO4U0.uasset",
-				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/BP_PowerUp.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/M/M_PowerUp.uasset",
 				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/BP/BP_PowerUp.uasset",
-				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/55/C6SM79DZ9ERS9FNIW9T1T4.uasset"
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/55/C6SM79DZ9ERS9FNIW9T1T4.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/BP/BP_RottenFruit.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/M/M_RottenFruit.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/FG/GI6B5ZW4LTIKFAL9PYO9YT.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/BP/BP_InvisibilityFruit.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/MyAssets/M/M_InvisibilityFruit.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/X4/ODY4M2KBZXD2PRLYN5LUH8.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5R/KW0T3W249LHFURQVW6EAZW.uasset",
+				"E:/GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Content/BP_PowerUp.uasset"
 			]
 		}
 	]
