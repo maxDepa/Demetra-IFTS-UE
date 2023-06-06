@@ -2377,3 +2377,18 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.06-15.01.24:407][973]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.06.06-15.03.05:477][717]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
 [2023.06.06-15.03.05:596][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.06-15.03.32:969][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.06-15.03.32:974][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/6X/QYVBRYQOD2FM2WXS9NFZ5T_Auto4
+[2023.06.06-15.03.32:974][823]LogSavePackage: Moving '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/QYVBRYQOD2FM2WXS9NFZ5T_Auto4B3ED4F40474E30E7D6DAD28672875C5D.tmp' to '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/6X/QYVBRYQOD2FM2WXS9NFZ5T_Auto4.uasset'
+[2023.06.06-15.03.32:977][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/11/MUTLCBO9X883MAHOSYX0YJ_Auto4
+[2023.06.06-15.03.32:977][823]LogSavePackage: Moving '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/MUTLCBO9X883MAHOSYX0YJ_Auto41803F26B4E85B8BB9440F586BF40EF1D.tmp' to '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/11/MUTLCBO9X883MAHOSYX0YJ_Auto4.uasset'
+[2023.06.06-15.03.32:980][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FB/W91K00PHGEBTV8VZ7CZLDI_Auto4
+[2023.06.06-15.03.32:980][823]LogSavePackage: Moving '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/W91K00PHGEBTV8VZ7CZLDI_Auto47DEA5B5C46A96B8038CBD1B51E00F610.tmp' to '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FB/W91K00PHGEBTV8VZ7CZLDI_Auto4.uasset'
+[2023.06.06-15.03.32:983][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.059
+[2023.06.06-15.03.32:983][823]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2023.06.06-15.03.32:983][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.06.06-15.03.32:996][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.06.06-15.03.32:996][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.06.06-15.03.33:020][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2023.06.06-15.03.33:020][823]LogSavePackage: Moving '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/BP_ThirdPersonCharacter_Auto45C17DA5344B65726D8A671BE1FE6097D.tmp' to '../../../../../GitHub/Demetra-IFTS-UE/Demetra_ThirdPerson/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2023.06.06-15.03.33:021][823]LogFileHelpers: Auto-saving content packages took 0.038
